@@ -14,7 +14,7 @@ Emplacement : 745 Rue Ottawa Montréal Quebec
 Date de visite : 31 janvier 2024
 <br>
 
-Oeuvre : Temporaire, intérieur réalisée en 2020
+Oeuvre : Temporaire, intérieure, immersive, interactive réalisée en 2020
 
 
 

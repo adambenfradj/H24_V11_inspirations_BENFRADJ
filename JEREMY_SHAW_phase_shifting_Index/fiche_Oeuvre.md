@@ -1,7 +1,15 @@
 # Phase Shifting Index
 ## Par Jeremy Shaw
-<img width="400" src="medias/vue_de_deux_ecrans.png">
+<img width="400" src="medias/telespectateur_qui_note_trois.png">
 
 <br>
-jijij
+
+## Fonderie Darling
+
+<br>
+
+Emplacement : 745 Rue Ottawa Montréal Quebec
+<br>
+
+Date de visite : 31 janvier 2024
 

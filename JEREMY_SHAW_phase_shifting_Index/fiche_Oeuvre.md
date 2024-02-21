@@ -33,6 +33,8 @@ Un autre élément qui contribue à l'unicité de cette expérience est l'intera
 
 [![jeremyshawscreens](https://img.youtube.com/vi/mcefUgckIZM&ab_channel=Robucci/0.jpg)](https://www.youtube.com/watch?v=mcefUgckIZM&ab_channel=Robucci)
 
+# Une beauté de toute pièce 
+
 <br>
 
 Un aspect ludique et enrichissant de l'expérience "Phase Shifting Index" est l'observation des réactions des autres spectateurs qui partagent cet espace d'exploration artistique. Il est fascinant de voir comment chacun réagit aux différentes séquences visuelles et sonores, et de remarquer les expressions d'émerveillement, de concentration ou de contemplation sur les visages des autres visiteurs. De plus, le fait de voir les autres spectateurs prendre des notes ou réagir de manière similaire à certains moments crée un sentiment de connexion et de partage dans l'appréciation de l'œuvre. Cette dimension sociale ajoute une couche supplémentaire à l'expérience globale, renforçant le sentiment de communauté parmi les spectateurs et enrichissant ainsi la compréhension et l'appréciation de l'œuvre de Jeremy Shaw.
@@ -42,3 +44,6 @@ Un aspect ludique et enrichissant de l'expérience "Phase Shifting Index" est l'
 <br> 
 
 
+L'aspect temporel de l'œuvre, mêlant des images des années 60 et 90, évoque en moi une nostalgie captivante, même si je suis née en 2004. Sur l'écran où l'on lit "Fabric of Time", cette sensation est particulièrement magnifique et spéciale. C'est comme si chaque image était un fragment d'histoire tissé dans la trame même du temps, créant un instant suspendu dans l'éternité, où passé et présent se fondent dans sous des visuels fascinant.
+
+<img width="400" src="medias/ecran_frabric_of_time.png">

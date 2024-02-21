@@ -32,3 +32,13 @@ Un autre élément qui contribue à l'unicité de cette expérience est l'intera
 <br>
 
 [![jeremyshawscreens](https://img.youtube.com/vi/mcefUgckIZM&ab_channel=Robucci/0.jpg)](https://www.youtube.com/watch?v=mcefUgckIZM&ab_channel=Robucci)
+
+<br>
+
+Un aspect ludique et enrichissant de l'expérience "Phase Shifting Index" est l'observation des réactions des autres spectateurs qui partagent cet espace d'exploration artistique. Il est fascinant de voir comment chacun réagit aux différentes séquences visuelles et sonores, et de remarquer les expressions d'émerveillement, de concentration ou de contemplation sur les visages des autres visiteurs. De plus, le fait de voir les autres spectateurs prendre des notes ou réagir de manière similaire à certains moments crée un sentiment de connexion et de partage dans l'appréciation de l'œuvre. Cette dimension sociale ajoute une couche supplémentaire à l'expérience globale, renforçant le sentiment de communauté parmi les spectateurs et enrichissant ainsi la compréhension et l'appréciation de l'œuvre de Jeremy Shaw.
+
+<img width="400" src="medias/telespectateur_note.png">
+
+<br> 
+
+

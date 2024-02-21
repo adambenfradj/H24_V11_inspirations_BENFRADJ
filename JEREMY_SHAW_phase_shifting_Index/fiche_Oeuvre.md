@@ -55,6 +55,13 @@ L'aspect psychédélique de l'œuvre est tout simplement captivant et j'en suis 
 
 <img width="400" src="medias/ecran_psychedelic.png">
 
+<br>
+
+
+Ici on a l'impression que c'est des neuronnes, vivre cette expérience et regardait ces couleurs... c'est du génie.
+
+<img width="400" src="medias/ecran_neurones.png">
+
 
 
 

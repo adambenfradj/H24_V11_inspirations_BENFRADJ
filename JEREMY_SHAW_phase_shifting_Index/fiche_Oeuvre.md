@@ -62,7 +62,12 @@ Ici on a l'impression que c'est des neuronnes, vivre cette expérience et regard
 
 <img width="400" src="medias/ecran_neurones.png">
 
+<br>
 
+
+Le contraste entre les écrans en noir et blanc et ceux en couleur est tout simplement magnifique dans l'œuvre de Jeremy Shaw. Ce choix esthétique ne fait qu'accentuer l'impact visuel de chaque séquence et ajoute une dimension supplémentaire à l'expérience globale.
+
+<img width="400" src="medias/vue_de_deux_ecrans.png">
 
 
 

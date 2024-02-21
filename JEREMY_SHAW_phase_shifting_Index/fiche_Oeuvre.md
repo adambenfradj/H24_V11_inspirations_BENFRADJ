@@ -28,3 +28,7 @@ Les sept écrans qui ornent l'espace confèrent une dimension supplémentaire à
 L'un des aspects les plus remarquables de l'expérience est le confort qu'elle procure. Le fait d'être en chaussettes crée une atmosphère décontractée et intime, permettant aux spectateurs de se sentir pleinement immergés dans l'univers de l'œuvre. De plus, le choix délibéré de l'emplacement des sièges et le design de l'espace offrent un confort supplémentaire, permettant aux spectateurs de se plonger totalement dans la contemplation de l'œuvre.
 
 Un autre élément qui contribue à l'unicité de cette expérience est l'interaction subtile entre les spectateurs eux-mêmes. Le mouvement des têtes qui se tournent pour suivre chaque écran crée une dynamique sociale intéressante, renforçant le sentiment de communauté parmi les spectateurs partageant cet instant particulier.
+
+<br>
+
+[![jeremyshawscreens](https://img.youtube.com/vi/mcefUgckIZM&ab_channel=Robucci/0.jpg)](https://www.youtube.com/watch?v=mcefUgckIZM&ab_channel=Robucci)

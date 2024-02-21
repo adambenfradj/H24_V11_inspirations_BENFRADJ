@@ -70,5 +70,12 @@ Le contraste entre les écrans en noir et blanc et ceux en couleur est tout simp
 <img width="400" src="medias/vue_de_deux_ecrans.png">
 
 
+# LE DEBRIF
 
+
+Pour conclure, l'opportunité de participer à un débriefing avec un présentateur à la fin de l'œuvre ajoute une dimension interactive et réflexive à l'expérience artistique. Comme on peut le voir dans la photo, les murs préfigurent les thèmes et les personnages de l'œuvre, offrant ainsi un aperçu intrigant de ce qui va suivre. Avant le début de l'œuvre, le présentateur engage le public dans une réflexion préliminaire, en nous invitant à anticiper ce que nous pourrions découvrir en nous basant sur les éléments présentés sur les murs. Cela prépare mentalement les spectateurs à s'engager pleinement dans l'œuvre à venir, en éveillant leur curiosité et leur sens de l'observation. Après avoir vécu l'expérience, le débriefing avec le présentateur offre l'opportunité aux spectateurs d'exprimer leurs réflexions, leurs impressions et leurs observations sur l'œuvre. Cela crée un espace pour partager des perspectives diverses et enrichir la compréhension collective de l'œuvre. J'ai eu la chance de participer à ces échanges avant et après l'œuvre, ce qui a rendu l'expérience d'autant plus interactive et enrichissante.
+En fin de compte, cette interaction avec le présentateur ajoute une couche supplémentaire à l'expérience artistique, transformant non seulement l'œuvre en sujet de réflexion, mais également en point de départ pour des discussions fascinantes et stimulantes sur l'art et la perception. C'est une approche qui favorise l'engagement actif du public et qui contribue à rendre l'œuvre de Jeremy Shaw encore plus mémorable et significative.
+
+
+<img width="400" src="medias/debrif_de_l'oeuvre_avec_le_presentateur.png">
 

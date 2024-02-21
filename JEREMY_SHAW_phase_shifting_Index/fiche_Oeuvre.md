@@ -47,3 +47,16 @@ Un aspect ludique et enrichissant de l'expérience "Phase Shifting Index" est l'
 L'aspect temporel de l'œuvre, mêlant des images des années 60 et 90, évoque en moi une nostalgie captivante, même si je suis née en 2004. Sur l'écran où l'on lit "Fabric of Time", cette sensation est particulièrement magnifique et spéciale. C'est comme si chaque image était un fragment d'histoire tissé dans la trame même du temps, créant un instant suspendu dans l'éternité, où passé et présent se fondent dans sous des visuels fascinant.
 
 <img width="400" src="medias/ecran_frabric_of_time.png">
+
+<br>
+
+
+L'aspect psychédélique de l'œuvre est tout simplement captivant et j'en suis un grand fan. Cela me ramène à des souvenirs précieux de regarder des vidéoclips avec mon oncle passionné de musique, notamment ceux de Frank Zappa, où l'expérience visuelle était tout aussi importante que l'écoute de la musique. Jeremy Shaw parvient à capturer cette essence avec brio, en jouant habilement avec les effets sonores et visuels pour créer une expérience véritablement enivrante. Les images qui se déroulent sur l'écran semblent presque danser en harmonie avec la musique, créant une fusion hypnotique de sons et de couleurs qui transporte le spectateur dans un état d'esprit psychédélique. C'est comme si l'œuvre elle-même était une invitation à plonger dans les méandres de l'imagination et à explorer les recoins les plus profonds de l'esprit. Cette capacité à créer une expérience sensorielle immersive et psychédélique est ce qui rend l'œuvre de Jeremy Shaw si captivante et mémorable. Elle nous rappelle l'importance de l'art dans la stimulation de nos sens et dans l'exploration des frontières de la perception. C'est une véritable célébration de l'expérience humaine dans toute sa complexité et sa splendeur.
+
+<img width="400" src="medias/ecran_psychedelic.png">
+
+
+
+
+
+

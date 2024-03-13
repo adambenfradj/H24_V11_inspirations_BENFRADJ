@@ -36,7 +36,7 @@ Un autre élément qui contribue à l'unicité de cette expérience est l'intera
 
 <br>
 
-[![jeremyshawscreens](https://www.youtube.com/watch?v=mcefUgckIZM)
+![jeremyshawscreens](https://www.youtube.com/watch?v=mcefUgckIZM)
 
 # Une beauté de toute pièce 
 

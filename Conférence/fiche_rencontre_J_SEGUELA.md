@@ -12,6 +12,7 @@ Jade a commencé par présenter le travail de Rafael Lozano-Hemmer, un artiste m
 <br>
 
 ![photo](lettres.png)
+https://www.lozano-hemmer.com/showimage_emb.php?proj=translation_stream&img=abu_dhabi_2023&idproj=1166&type=exhibition&id=19
 
 Jade a souligné l'importance des détails techniques dans la réussite de tels projets. Elle a partagé des anecdotes sur la résilience de l'équipe face aux défis imprévus, tels que les tempêtes qui ont endommagé le matériel. De plus, elle a mis en lumière l'aspect humain du processus, en évoquant l'esprit d'équipe et l'humour nécessaire pour maintenir la motivation malgré le stress.
 
@@ -19,6 +20,7 @@ La conférence a également mis en avant la diversité de l'équipe impliquée d
 <br>
 
 ![photo](colonnes.png)
+https://www.lozano-hemmer.com/showimage_emb.php?proj=translation_stream&img=abu_dhabi_2023&idproj=1166&type=exhibition&id=8
 
 
 ## Conclusion 

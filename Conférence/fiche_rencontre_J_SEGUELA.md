@@ -15,6 +15,9 @@ Jade a souligné l'importance des détails techniques dans la réussite de tels 
 La conférence a également mis en avant la diversité de l'équipe impliquée dans ces projets, composée d'architectes, de programmeurs, d'artistes, de scientifiques et bien d'autres, provenant de différents pays. Cette collaboration multidisciplinaire est essentielle pour garantir le succès des installations artistiques internationales.
 <br>
 
+<img width="400" src="colonnes.jpg">
+
+
 ## Conclusion 
 ### Mon appréciation 
 En conclusion, la conférence de Jade Séguéla a offert un aperçu captivant des défis et des triomphes rencontrés lors de l'installation d'œuvres d'art à l'échelle internationale. Son approche ouverte et engageante a permis aux participants de comprendre la complexité de ce processus, tout en appréciant l'ingéniosité et le dévouement nécessaires pour réaliser de telles réalisations. Cette conférence a été une véritable source d'inspiration pour tous ceux qui aspirent à travailler dans le domaine de l'art et de la culture.

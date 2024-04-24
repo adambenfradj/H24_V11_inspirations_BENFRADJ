@@ -12,6 +12,7 @@ Jade a commencé par présenter le travail de Rafael Lozano-Hemmer, un artiste m
 <br>
 
 ![photo](lettres.png)
+
 <br>
 https://www.lozano-hemmer.com/showimage_emb.php?proj=translation_stream&img=abu_dhabi_2023&idproj=1166&type=exhibition&id=19
 
@@ -21,6 +22,7 @@ La conférence a également mis en avant la diversité de l'équipe impliquée d
 <br>
 
 ![photo](colonnes.png)
+
 <br>
 https://www.lozano-hemmer.com/showimage_emb.php?proj=translation_stream&img=abu_dhabi_2023&idproj=1166&type=exhibition&id=8
 

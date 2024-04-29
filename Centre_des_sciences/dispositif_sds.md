@@ -46,3 +46,15 @@ Manipuler les blocs colorés, les disposer avec précaution dans les creux dési
 Certes, l'ambiance agitée du centre n'a pas disparu complètement, mais elle n'a pas non plus empêché cette expérience d'être enrichissante et mémorable. Des enfants curieux se pressaient autour de la vitrine, attirés par l'animation colorée du robot, mais leur présence ajoutait une dimension supplémentaire à cette expérience collective.
 
 En fin de compte, ma rencontre avec ce petit robot dans sa vitrine cubique a été une pause bienvenue dans le chaos du Centre des sciences de Montréal. Alors que je manipulais les blocs pour donner vie à cette création mécanique, j'ai été immergé dans un monde de découverte et d'exploration, où la science et la curiosité se conjuguaient pour créer des moments inoubliables.
+
+<br>
+
+# LE DÉBRIF
+
+Après avoir parcouru le Centre des sciences de Montréal, je ressens une multitude d'impressions contrastées mais enrichissantes. Mon expérience avec le dispositif interactif du petit robot, logé dans sa vitrine cubique, m'a offert un moment de calme et de concentration au milieu de l'animation ambiante. La simplicité de l'interaction et la fascination de voir le robot prendre vie ont créé une parenthèse captivante dans cette atmosphère dynamique.
+
+Cependant, il est difficile de dissocier cette expérience isolée de l'ensemble de la visite. Bien que le centre soit animé par une énergie palpable, avec des enfants enthousiastes et des activités foisonnantes, cela n'a pas altéré la singularité de cette découverte. Au contraire, cela a ajouté une dimension humaine et dynamique à mon exploration, soulignant l'importance de la science comme moteur de curiosité et d'émerveillement pour toutes les générations.
+
+Le Centre des sciences de Montréal demeure un véritable joyau de connaissances et de découvertes. Les expositions interactives, les démonstrations en direct et les expériences pratiques sont autant de portes ouvertes vers un monde fascinant de possibilités scientifiques. Même au milieu de l'activité incessante, l'inspiration et l'apprentissage persistent, rappelant la valeur inestimable de la science dans nos vies et dans la société.
+
+En rétrospective, ma visite au Centre des sciences de Montréal a été une expérience stimulante et enrichissante. Entre les moments de contemplation offerts par le dispositif interactif et l'effervescence générale du centre, j'ai été confronté à une réalité complexe et diversifiée. C'est dans cette diversité que réside la véritable essence de l'exploration scientifique : une quête infinie de connaissances, de curiosité et de découverte, enrichie par la diversité des expériences et des interactions humaines.

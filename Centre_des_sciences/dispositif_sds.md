@@ -47,7 +47,7 @@ Certes, l'ambiance agitée du centre n'a pas disparu complètement, mais elle n'
 
 En fin de compte, ma rencontre avec ce petit robot dans sa vitrine cubique a été une pause bienvenue dans le chaos du Centre des sciences de Montréal. Alors que je manipulais les blocs pour donner vie à cette création mécanique, j'ai été immergé dans un monde de découverte et d'exploration, où la science et la curiosité se conjuguaient pour créer des moments inoubliables.
 
-Voilà deux exemples :
+#### Voilà deux exemples :
 
 Dans cette première photo, on remarque dans le premier creu, un bloc vert qui illustre ce que le robot va reproduire. Dans ce cas ci, c'est une sourire avec chaque oeil remplacer par un "X".
 

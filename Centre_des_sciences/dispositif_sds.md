@@ -71,3 +71,5 @@ Le Centre des sciences de Montréal demeure un véritable joyau de connaissances
 En rétrospective, ma visite au Centre des sciences de Montréal a été une expérience stimulante et enrichissante. Entre les moments de contemplation offerts par le dispositif interactif et l'effervescence générale du centre, j'ai été confronté à une réalité complexe et diversifiée. C'est dans cette diversité que réside la véritable essence de l'exploration scientifique : une quête infinie de connaissances, de curiosité et de découverte, enrichie par la diversité des expériences et des interactions humaines.
 
 Pour finir cette documentation, voici une petite viédo qui illustre mon intéraction avec le petit robot.
+
+![youtube_robot](medias/youtube_robot.PNG)

@@ -30,3 +30,19 @@ Je dois admettre que malgré le chaos ambiant, les enfants se sont montrés resp
 Malgré ces défis, le Centre des sciences de Montréal offre sans aucun doute une multitude de ressources fascinantes et éducatives. Des expositions interactives aux démonstrations scientifiques en direct, il s'agit d'une destination incontournable pour les amateurs de science de tous âges. Cependant, pour ceux qui recherchent une expérience plus sereine et réfléchie, il peut être préférable de choisir des moments de visite plus calmes, loin des foules tumultueuses.
 
 En fin de compte, ma sortie au Centre des sciences de Montréal a été mémorable, mais pour des raisons bien différentes de ce que j'avais anticipé. Entre le brouhaha incessant et les défis pour accéder aux dispositifs, j'ai été confronté à une réalité inattendue. Cependant, malgré le tumulte, l'esprit de découverte et d'apprentissage reste au cœur de cette expérience, rappelant l'importance de la science dans nos vies, même dans les moments les plus agités.
+
+<br>
+
+# Le petit robot
+
+
+Au cœur de l'effervescence du Centre des sciences de Montréal, j'ai découvert un dispositif intrigant qui se démarquait par sa simplicité et son potentiel interactif. Niché dans une vitrine cubique, ce petit robot attendait patiemment d'être réveillé par la magie des blocs colorés disposés dans les creux prévus à cet effet.
+
+La vitrine exhibait un message à la fois en français et en anglais, invitant les visiteurs à participer : "Place les blocs pour animer le robot - Arrange the blocks to activate the robot". Cette simple instruction était un appel à l'action, une incitation à plonger dans le monde ludique et éducatif de cette expérience interactive.
+
+Guidé par ma curiosité, j'ai entrepris d'explorer les possibilités offertes par ce dispositif. Six creux accueillaient les blocs avec une promesse de transformation, chaque combinaison déclenchant une réaction unique de la part du robot endormi. L'interaction était simple mais captivante, offrant un équilibre parfait entre défi et gratification.
+Manipuler les blocs colorés, les disposer avec précaution dans les creux désignés, et observer avec fascination les mouvements du robot qui prenait vie sous mes yeux, étaient des moments de découverte et d'émerveillement.
+
+Certes, l'ambiance agitée du centre n'a pas disparu complètement, mais elle n'a pas non plus empêché cette expérience d'être enrichissante et mémorable. Des enfants curieux se pressaient autour de la vitrine, attirés par l'animation colorée du robot, mais leur présence ajoutait une dimension supplémentaire à cette expérience collective.
+
+En fin de compte, ma rencontre avec ce petit robot dans sa vitrine cubique a été une pause bienvenue dans le chaos du Centre des sciences de Montréal. Alors que je manipulais les blocs pour donner vie à cette création mécanique, j'ai été immergé dans un monde de découverte et d'exploration, où la science et la curiosité se conjuguaient pour créer des moments inoubliables.

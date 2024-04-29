@@ -47,6 +47,17 @@ Certes, l'ambiance agitée du centre n'a pas disparu complètement, mais elle n'
 
 En fin de compte, ma rencontre avec ce petit robot dans sa vitrine cubique a été une pause bienvenue dans le chaos du Centre des sciences de Montréal. Alors que je manipulais les blocs pour donner vie à cette création mécanique, j'ai été immergé dans un monde de découverte et d'exploration, où la science et la curiosité se conjuguaient pour créer des moments inoubliables.
 
+Voilà deux exemples :
+
+Dans cette première photo, on remarque dans le premier creu, un bloc vert qui illustre ce que le robot va reproduire. Dans ce cas ci, c'est une sourire avec chaque oeil remplacer par un "X".
+
+![mort](medias/mort.jfif)
+
+Dans cette seconde image, une nouvelle action captivante du petit robot se dévoile. Deux blocs distincts attirent l'attention : un bloc bleu, représentant sa première action où le robot semble penché légèrement sur le côté, et un bloc rose, illustrant une expression faciale animée, comme une grimace, ajoutant ainsi une dimension supplémentaire à son animation.
+
+![sourire](medias/sourire.jfif)
+
+
 <br>
 
 # LE DÉBRIF
@@ -58,3 +69,5 @@ Cependant, il est difficile de dissocier cette expérience isolée de l'ensemble
 Le Centre des sciences de Montréal demeure un véritable joyau de connaissances et de découvertes. Les expositions interactives, les démonstrations en direct et les expériences pratiques sont autant de portes ouvertes vers un monde fascinant de possibilités scientifiques. Même au milieu de l'activité incessante, l'inspiration et l'apprentissage persistent, rappelant la valeur inestimable de la science dans nos vies et dans la société.
 
 En rétrospective, ma visite au Centre des sciences de Montréal a été une expérience stimulante et enrichissante. Entre les moments de contemplation offerts par le dispositif interactif et l'effervescence générale du centre, j'ai été confronté à une réalité complexe et diversifiée. C'est dans cette diversité que réside la véritable essence de l'exploration scientifique : une quête infinie de connaissances, de curiosité et de découverte, enrichie par la diversité des expériences et des interactions humaines.
+
+Pour finir cette documentation, voici une petite viédo qui illustre mon intéraction avec le petit robot.

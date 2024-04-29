@@ -73,3 +73,5 @@ En rétrospective, ma visite au Centre des sciences de Montréal a été une exp
 Pour finir cette documentation, voici une petite viédo qui illustre mon intéraction avec le petit robot.
 
 ![youtube_robot](medias/youtube_robot.PNG)
+
+<https://www.youtube.com/shorts/6VWYY3_qxU0>

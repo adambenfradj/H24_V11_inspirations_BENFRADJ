@@ -35,7 +35,7 @@ En fin de compte, ma sortie au Centre des sciences de Montréal a été mémorab
 
 # Le petit robot
 
-
+![robot](medias/robot.png)
 Au cœur de l'effervescence du Centre des sciences de Montréal, j'ai découvert un dispositif intrigant qui se démarquait par sa simplicité et son potentiel interactif. Niché dans une vitrine cubique, ce petit robot attendait patiemment d'être réveillé par la magie des blocs colorés disposés dans les creux prévus à cet effet.
 
 La vitrine exhibait un message à la fois en français et en anglais, invitant les visiteurs à participer : "Place les blocs pour animer le robot - Arrange the blocks to activate the robot". Cette simple instruction était un appel à l'action, une incitation à plonger dans le monde ludique et éducatif de cette expérience interactive.

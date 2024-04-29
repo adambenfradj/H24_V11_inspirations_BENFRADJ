@@ -17,3 +17,5 @@ Intéractive
 
 ### Date d'ouverture 
 6 mai 2000
+
+# Mon appréciation général du Centre des Sciences 

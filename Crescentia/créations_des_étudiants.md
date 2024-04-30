@@ -27,3 +27,11 @@ Parmi les différentes œuvres exposées, certaines ont su particulièrement ret
 En résumé, cette visite a été une expérience stimulante et enrichissante, offrant un aperçu précieux de la créativité et du talent au sein de notre communauté d'étudiants en intégration multimédia. En tant que membre de ce programme, je suis reconnaissant d'avoir eu l'opportunité de participer à cet événement et je suis impatient de voir comment nos parcours créatifs continueront à se développer dans les mois à venir.
 
 Je vais maintenant passer en revue chaque équipe et leurs œuvres, en commençant par celles que j'ai moins appréciées pour finir par celles que j'ai préférées.
+
+<br>
+
+# Effet Papillon
+
+![papillion](medias/papillion.png)
+
+

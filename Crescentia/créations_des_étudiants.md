@@ -50,7 +50,9 @@ En conclusion, "Effet Papillon" s'est révélé être un projet peu convaincant 
 
 Voici une video que j'ai capturé pour montrer ce projet
 
+![ytb_arbre](medias/ytb_arbre.png)
 
+<https://www.youtube.com/shorts/SfgqQxLMQ_w>
 
 
 

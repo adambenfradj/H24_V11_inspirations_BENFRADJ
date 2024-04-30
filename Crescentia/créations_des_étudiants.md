@@ -54,5 +54,9 @@ Voici une video que j'ai capturé pour montrer ce projet
 
 <https://www.youtube.com/shorts/SfgqQxLMQ_w>
 
+<br>
 
+# Canevas Cosmique 
+
+![cosmique](medias/cosmique.png)
 

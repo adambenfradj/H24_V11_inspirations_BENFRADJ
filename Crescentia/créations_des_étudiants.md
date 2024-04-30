@@ -34,6 +34,10 @@ Je vais maintenant passer en revue chaque équipe et leurs œuvres, en commença
 
 ![papillion](medias/papillion.png)
 
+https://tim-montmorency.com/2024/
+
+#### Réalisé par : Raphael Dumont, Aluxis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et Jasmine Lapierre
+
 Le projet "Effet Papillon" s'est présenté comme une expérience immersive au sein de l'exposition. Malheureusement, il a suscité chez moi un sentiment mitigé, voire décevant.
 
 Dès mes deux visites, d'abord le 21 février puis le 13 mars, j'ai constaté une absence significative d'améliorations notables. Les élèves semblaient peu préparés et leur présentation manquait de fluidité, occasionnant même des moments de malaise lorsque certains ajouts étaient envisagés à la hâte. Cette absence de préparation a certainement impacté ma perception globale du projet.
@@ -59,4 +63,10 @@ Voici une video que j'ai capturé pour montrer ce projet
 # Canevas Cosmique 
 
 ![cosmique](medias/cosmique.png)
+
+https://tim-montmorency.com/2024/
+
+#### Réalisé par : Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikael Tourangeau
+
+
 

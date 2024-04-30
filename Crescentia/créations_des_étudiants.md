@@ -1,8 +1,9 @@
 # Crescentia
 ## L'univers du multimédia au collège Montmorency
 
-![momo](medias/momo.jpg)
-https://www.cmontmorency.qc.ca/ 
+![crescentia_image](medias/crescentia_image.png)
+
+https://tim-montmorency.com/2024/
 ### Emplacement
 475 Bd de l'Avenir, Laval, QC H7N 5H9
 <br>

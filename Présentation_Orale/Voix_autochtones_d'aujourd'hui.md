@@ -7,8 +7,8 @@ Le Musée McCord est un musée situé au centre ville de Montréal et ce musée 
 
 Dès mon arrivée, j'ai été captivé par la diversité des sections de l'exposition, mettant en lumière des thématiques essentielles telles que le savoir autochtone, l'héritage culturel, le traumatisme historique et la résilience communautaire. Une des pièces maîtresses de cette exposition réside dans les témoignages poignants recueillis par la commissaire huronne-wendat, Elisabeth Kaine. Cette dernière a mené une consultation approfondie entre 2010 et 2018, échangeant avec plus de 800 individus issus des 11 nations autochtones du Québec. Ces récits, empreints d'authenticité, sont le fruit d'ateliers participatifs, offrant ainsi une voix directe aux Autochtones de diverses nations. Ces informations se trouvait à l'entrée de l'exposition.
 
-![crescentia_image](medias/crescentia_image.png)
-https://www.youtube.com/shorts/01dx2IF_bq4
+![ytb_dispositif2](medias/ytb_dispositif2.png)
+<https://www.youtube.com/shorts/01dx2IF_bq4> 
 
 Parmi les œuvres qui ont particulièrement retenu mon attention, et celle que je me devait de documenter, se trouve un dispositif multimédia très intéressant. Au centre de la pièce, un écran diffuse des témoignages poignants, dont celui de Joséphine Bacon, une Innu dont les paroles résonnent avec une force inégalée. Autour de cet écran, des projections de végétation et d'arbres ornent les murs, créant une atmosphère immersive qui amplifie l'impact des récits partagés. Cette combinaison entre les témoignages audiovisuels et les éléments visuels environnants offre une expérience profondément engageante et émouvante. Voici une vidéo que j'ai pris lors du témoignage de Joséphine Bacon.
 

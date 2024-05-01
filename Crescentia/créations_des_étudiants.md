@@ -87,3 +87,35 @@ Voici une vidéo que j'ai capturé pour montrer ce projet
 ![ytb_cc](medias/ytb_cc.png)
 
 <https://www.youtube.com/shorts/WgOgKFDYMBM>
+
+<br>
+
+# Rhizomatique
+
+![rizo](medias/rizo.png)
+
+https://tim-montmorency.com/2024/
+
+#### Réalisé par : Jolyanne Desjardins, Maika Désy, Laurie Houde et Felix Testa Radovanovic
+
+Voici une rédaction basée sur la description du projet "Rhizomatique" :
+
+Le projet "Rhizomatique" se présente comme une œuvre interactive d'une profondeur singulière, évoquant une nostalgie et des souvenirs qui ne nous appartiennent pas, mais qui pourtant résonnent en nous. En explorant cette création, on est invité à faire un pas en arrière dans le tourbillon incessant du temps, une pause où l'humain et le temps se rejoignent dans un ballet émotionnel et visuel.
+
+Dans notre société contemporaine, le temps exerce un contrôle inévitable sur nos vies, nous précipitant souvent dans un flux incessant d'activités et d'obligations. "Rhizomatique" cherche à capturer cette essence temporelle en offrant une expérience où chaque interaction avec la toile est une plongée dans les méandres des souvenirs. En appuyant sur cette toile, l'explorateur est convié à naviguer à travers les méandres du cerveau pour y découvrir les fragments intemporels qui y sont enfouis. Ces souvenirs sont ensuite révélés sur les projections immersives qui ornent les murs environnants.
+
+![toucher_reve](medias/toucher_reve.png)
+
+Cependant, cette plongée dans le passé d'un inconnu n'est pas seulement une contemplation passive. En effet, chaque interaction avec la toile façonne la clarté des souvenirs qui émergent, symbolisant ainsi l'influence de l'explorateur sur la réminiscence de ces moments. Plus l'interaction est profonde, plus les souvenirs deviennent nets, offrant ainsi une expérience personnalisée et réactive à chaque visiteur.
+
+L'œuvre se déploie dans deux espaces interconnectés : la toile, véritable interface entre l'explorateur et les souvenirs, et les projections immersives, qui donnent vie à ces réminiscences sur les murs environnants. La toile elle-même, représentant le cerveau, est le reflet de la complexité et de la fluidité de nos pensées, avec des projections évoquant les méandres rhizomatiques de l'esprit humain.
+
+Au-delà de l'aspect technique, "Rhizomatique" offre également une expérience sensorielle complète, avec une musique d'ambiance en parfaite harmonie avec l'atmosphère de l'œuvre, ajoutant ainsi une dimension supplémentaire à cette expérience immersive et captivante.
+
+En somme, "Rhizomatique" transcende les frontières de l'art interactif pour offrir une expérience profondément émotionnelle et introspective. En explorant les souvenirs d'un autre, on est amené à réfléchir sur notre propre rapport au temps et à la mémoire, offrant ainsi une méditation sur l'essence même de notre humanité et de notre existence.
+
+Voici une vidéo que j'ai capturé pour montrer ce projet
+
+![ytb_riz](medias/ytb_riz.png)
+
+<https://www.youtube.com/shorts/74oVOtIo75g>

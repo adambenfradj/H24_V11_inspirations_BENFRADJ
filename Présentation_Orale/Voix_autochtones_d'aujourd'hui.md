@@ -12,16 +12,17 @@ Dès mon arrivée, j'ai été captivé par la diversité des sections de l'expos
 
 Parmi les œuvres qui ont particulièrement retenu mon attention, et celle que je me devait de documenter, se trouve un dispositif multimédia très intéressant. Au centre de la pièce, un écran diffuse des témoignages poignants, dont celui de Joséphine Bacon, une Innu dont les paroles résonnent avec une force inégalée. Autour de cet écran, des projections de végétation et d'arbres ornent les murs, créant une atmosphère immersive qui amplifie l'impact des récits partagés. Cette combinaison entre les témoignages audiovisuels et les éléments visuels environnants offre une expérience profondément engageante et émouvante. Voici une vidéo que j'ai pris lors du témoignage de Joséphine Bacon.
 
-https://www.youtube.com/shorts/2qPMNQpGDq4
+![ytb_dispo1](medias/ytb_dispo1.png)
+<https://www.youtube.com/shorts/2qPMNQpGDq4>
 
 La contribution de La Boîte Rouge VIF, un organisme autochtone à but non lucratif, a été cruciale dans la réalisation des capsules vidéo présentant les nombreux témoignages. Leur générosité et leur engagement ont permis de donner vie aux récits émouvants des individus qui partagent leurs expériences, leurs savoirs et leurs souffrances. Après ce dispositif se trouvaient d'ailleurs d'autres dispositifs similaires ou écrans avec le même principe de sensibiliser la cause et d'éduquer les personnes qui ne savent rien du sujet. 
 
-
+![descriptif](medias/descriptif.png)
 
 Ma visite au Musée McCord a été bien plus qu'une simple exploration artistique. C'était une immersion émotionnelle dans un univers de mémoire collective. En m'habillant aux couleurs de l'œuvre que je m'apprêtais à documenter, j'ai ressenti un lien intime avec le sujet, une connexion qui a enrichi chaque instant de ma visite. Les témoignages poignants m'ont profondément touché, suscitant en moi une réflexion profonde sur l'histoire souvent douloureuse mais incroyablement inspirante des peuples autochtones.
 En évaluant l'exposition, plusieurs points positifs se dégagent. La mise en valeur de la diversité des voix autochtones est un aspect essentiel de cette expérience, tout comme la qualité de présentation des œuvres et des dispositifs multimédias. De plus, l'importance des thématiques abordées ne peut être sous-estimée et offre une occasion précieuse de sensibilisation et de dialogue.
 
-
+![descriptif_2](medias/descriptif_2.png)
 
 Ma décision de documenter l'exposition autochtone découle d'une passion de longue date pour ce sujet. Depuis mon enfance, j'ai été attiré par les récits et les histoires des peuples autochtones, trouvant dans leur histoire une source d'inspiration et de fascination. Des documentaires visionnés avec ma mère ou encore des jeux vidéo tels que Assassin's Creed 3, chaque expérience a contribué à forger mon intérêt profond pour la culture et la résilience autochtones.
 

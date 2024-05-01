@@ -68,5 +68,22 @@ https://tim-montmorency.com/2024/
 
 #### Réalisé par : Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikael Tourangeau
 
+Le projet "Canevas Cosmique" nous plonge dans un laboratoire futuriste où une table trône en son centre, captivant notre attention dès le premier regard. Sur l'écran surplombant la table, une simulation d'un système solaire se déploie, offrant une invitation à l'exploration et à l'interaction.
 
+L'équipe derrière cette création nous propose une expérience unique où nous sommes invités à manipuler des statues, déclenchant ainsi différents phénomènes au sein de la simulation. L'idée de pouvoir interagir avec un système solaire virtuel en déposant des objets sur une table crée une intrigue immédiate et promet une expérience immersive.
 
+Dès ma première rencontre avec ce projet le 21 février, j'ai été intrigué par la vision artistique et l'aspect interactif qu'il proposait. À cette époque, les objets utilisés pour interagir avec la simulation étaient des feuilles en papier, chacune portant un code unique. Cependant, lors de ma deuxième visite le 13 mars, j'ai pu constater une amélioration significative de cette composante. Les feuilles en papier ont été remplacées par des objets en forme de planètes, offrant ainsi une expérience plus immersive et visuellement captivante.
+
+De plus, j'ai remarqué un souci du détail et de la professionnalisme de la part de l'équipe. Lors de ma première visite, les câbles jonchaient le sol de manière désordonnée, ce qui pouvait parfois perturber l'immersion. Cependant, lors de ma deuxième visite, j'ai été agréablement surpris de constater que les câbles avaient été soigneusement rangés et dissimulés, offrant ainsi une esthétique plus soignée et professionnelle à l'ensemble du projet.
+
+![planetes](medias/planetes.png)
+
+L'équipe en charge du projet s'est également montrée accueillante et enthousiaste à l'idée de partager leur création avec les visiteurs. Leur passion pour leur travail transparaissait dans chaque détail de l'expérience, ce qui contribuait à créer une ambiance chaleureuse et engageante au sein du laboratoire.
+
+En résumé, "Canevas Cosmique" s'est révélé être une expérience enrichissante et divertissante, offrant une fusion unique entre l'art visuel, l'interaction et l'exploration spatiale. Grâce à son évolution et à son attention aux détails, ce projet a su captiver mon intérêt et m'offrir une expérience mémorable au sein de l'exposition.
+
+Voici une vidéo que j'ai capturé pour montrer ce projet
+
+![ytb_cc](medias/ytb_cc.png)
+
+<https://www.youtube.com/shorts/WgOgKFDYMBM>

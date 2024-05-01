@@ -98,8 +98,6 @@ https://tim-montmorency.com/2024/
 
 #### Réalisé par : Jolyanne Desjardins, Maika Désy, Laurie Houde et Felix Testa Radovanovic
 
-Voici une rédaction basée sur la description du projet "Rhizomatique" :
-
 Le projet "Rhizomatique" se présente comme une œuvre interactive d'une profondeur singulière, évoquant une nostalgie et des souvenirs qui ne nous appartiennent pas, mais qui pourtant résonnent en nous. En explorant cette création, on est invité à faire un pas en arrière dans le tourbillon incessant du temps, une pause où l'humain et le temps se rejoignent dans un ballet émotionnel et visuel.
 
 Dans notre société contemporaine, le temps exerce un contrôle inévitable sur nos vies, nous précipitant souvent dans un flux incessant d'activités et d'obligations. "Rhizomatique" cherche à capturer cette essence temporelle en offrant une expérience où chaque interaction avec la toile est une plongée dans les méandres des souvenirs. En appuyant sur cette toile, l'explorateur est convié à naviguer à travers les méandres du cerveau pour y découvrir les fragments intemporels qui y sont enfouis. Ces souvenirs sont ensuite révélés sur les projections immersives qui ornent les murs environnants.
@@ -119,3 +117,31 @@ Voici une vidéo que j'ai capturé pour montrer ce projet
 ![ytb_riz](medias/ytb_riz.png)
 
 <https://www.youtube.com/shorts/74oVOtIo75g>
+
+<br>
+
+# KIGO
+
+![kigo](medias/kigo.png)
+
+https://tim-montmorency.com/2024/
+
+#### Réalisé par : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
+
+Le projet "Kigo" se démarque des autres par son approche ludique et immersive, offrant une expérience de jeu captivante qui a su raviver en moi des souvenirs d'enfance, notamment mes moments passés à jouer avec la Kinect. Conçu comme un jeu interactif, "Kigo" invite le joueur à naviguer à travers un univers néon rétro, en évitant habilement des obstacles tandis que l'esthétique visuelle évolue pour refléter les quatre saisons.
+
+L'équipe derrière cette création a réussi à améliorer l'aspect visuel du jeu entre les deux dates de présentation, offrant ainsi une expérience encore plus immersive et esthétiquement plaisante. En ce qui concerne la détection des mouvements, bien que j'aie constaté quelques légers bugs occasionnels, ceux-ci n'ont pas nui à la fonctionnalité globale du jeu. De plus, la présence d'une section bien illustrée pour indiquer les limites de l'espace de détection a contribué à faciliter l'expérience du joueur et à minimiser les perturbations.
+
+Ce qui m'a particulièrement marqué avec "Kigo", c'est la dimension sociale qu'il offre. Contrairement aux autres œuvres où je me concentrais principalement sur mon expérience personnelle, j'ai pris un réel plaisir à observer les autres joueurs s'immerger dans le jeu et tenter de battre leur propre score. L'ambiance ludique et conviviale qui émanait de cette expérience en faisait un véritable moment de plaisir partagé.
+
+Par ailleurs, l'esthétique visuelle du jeu est un véritable point fort, avec des graphismes néon rétro qui captent immédiatement l'attention et plongent le joueur dans un univers visuellement saisissant. L'équipe en charge du projet, située à proximité pour contrôler l'ordinateur central, a su créer une atmosphère accueillante et stimulante, contribuant ainsi à renforcer l'immersion du joueur dans l'univers de "Kigo".
+
+![ordi_jeu_simulation](medias/ordi_jeu_simulation.png)
+
+En somme, "Kigo" s'est révélé être une expérience mémorable et divertissante, offrant une fusion parfaite entre nostalgie, plaisir de jeu et esthétique visuelle saisissante. Cette œuvre ludique et immersive a su captiver mon attention et m'offrir un moment de pur divertissement au cœur de l'exposition.
+
+Voici une vidéo que j'ai capturé pour montrer ce projet
+
+![ytb_kigo](medias/ytb_kigo.png)
+
+<https://www.youtube.com/shorts/tq9hsVdQytg> 
